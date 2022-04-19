@@ -40,9 +40,6 @@ function App() {
       document.title = "ReactApp - Light";
     }
   }
-
-  
-
   return (
     <>
       <Navbar sitetitle="First app" abouttextt="About Us" mode={mode} togglebutton={changemodes}  />
