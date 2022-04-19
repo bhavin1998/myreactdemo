@@ -16,7 +16,7 @@ export default function Navbar(props) {
               <a className="nav-link" href="/">Home </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/">{props.abouttextt}</a>
+              <a className="nav-link" href="/about">{props.abouttextt}</a>
             </li>
           </ul>
         </div>
